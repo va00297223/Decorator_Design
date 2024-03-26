@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MAPD\\Backend\\Authenticated_API\\Decorator_Design\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{783E90F3-0D0B-4E1D-B394-44A97DAECEF6}|Decorator_Design.csproj|d:\\mapd\\backend\\authenticated_api\\decorator_design\\decorator_design.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{783E90F3-0D0B-4E1D-B394-44A97DAECEF6}|Decorator_Design.csproj|solutionrelative:decorator_design.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783E90F3-0D0B-4E1D-B394-44A97DAECEF6}|Decorator_Design.csproj|d:\\mapd\\backend\\authenticated_api\\decorator_design\\concrete_component\\concrete_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783E90F3-0D0B-4E1D-B394-44A97DAECEF6}|Decorator_Design.csproj|solutionrelative:concrete_component\\concrete_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783E90F3-0D0B-4E1D-B394-44A97DAECEF6}|Decorator_Design.csproj|d:\\mapd\\backend\\authenticated_api\\decorator_design\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783E90F3-0D0B-4E1D-B394-44A97DAECEF6}|Decorator_Design.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783E90F3-0D0B-4E1D-B394-44A97DAECEF6}|Decorator_Design.csproj|d:\\mapd\\backend\\authenticated_api\\decorator_design\\decorator\\colordecorator_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783E90F3-0D0B-4E1D-B394-44A97DAECEF6}|Decorator_Design.csproj|solutionrelative:decorator\\colordecorator_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783E90F3-0D0B-4E1D-B394-44A97DAECEF6}|Decorator_Design.csproj|d:\\mapd\\backend\\authenticated_api\\decorator_design\\decorator\\decorator_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783E90F3-0D0B-4E1D-B394-44A97DAECEF6}|Decorator_Design.csproj|solutionrelative:decorator\\decorator_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783E90F3-0D0B-4E1D-B394-44A97DAECEF6}|Decorator_Design.csproj|d:\\mapd\\backend\\authenticated_api\\decorator_design\\decorator\\uppercasedecorator_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783E90F3-0D0B-4E1D-B394-44A97DAECEF6}|Decorator_Design.csproj|solutionrelative:decorator\\uppercasedecorator_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783E90F3-0D0B-4E1D-B394-44A97DAECEF6}|Decorator_Design.csproj|d:\\mapd\\backend\\authenticated_api\\decorator_design\\decorator\\plaindecorator_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783E90F3-0D0B-4E1D-B394-44A97DAECEF6}|Decorator_Design.csproj|solutionrelative:decorator\\plaindecorator_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783E90F3-0D0B-4E1D-B394-44A97DAECEF6}|Decorator_Design.csproj|d:\\mapd\\backend\\authenticated_api\\decorator_design\\i_component\\icomponent_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783E90F3-0D0B-4E1D-B394-44A97DAECEF6}|Decorator_Design.csproj|solutionrelative:i_component\\icomponent_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Decorator_Design",
+              "DocumentMoniker": "D:\\MAPD\\Backend\\Authenticated_API\\Decorator_Design\\Decorator_Design.csproj",
+              "RelativeDocumentMoniker": "Decorator_Design.csproj",
+              "ToolTip": "D:\\MAPD\\Backend\\Authenticated_API\\Decorator_Design\\Decorator_Design.csproj",
+              "RelativeToolTip": "Decorator_Design.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T18:48:39.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlainDecorator_Class.cs",
+              "DocumentMoniker": "D:\\MAPD\\Backend\\Authenticated_API\\Decorator_Design\\Decorator\\PlainDecorator_Class.cs",
+              "RelativeDocumentMoniker": "Decorator\\PlainDecorator_Class.cs",
+              "ToolTip": "D:\\MAPD\\Backend\\Authenticated_API\\Decorator_Design\\Decorator\\PlainDecorator_Class.cs",
+              "RelativeToolTip": "Decorator\\PlainDecorator_Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:30:50.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Decorator_Class.cs",
+              "DocumentMoniker": "D:\\MAPD\\Backend\\Authenticated_API\\Decorator_Design\\Decorator\\Decorator_Class.cs",
+              "RelativeDocumentMoniker": "Decorator\\Decorator_Class.cs",
+              "ToolTip": "D:\\MAPD\\Backend\\Authenticated_API\\Decorator_Design\\Decorator\\Decorator_Class.cs",
+              "RelativeToolTip": "Decorator\\Decorator_Class.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:25:12.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IComponent_Class.cs",
+              "DocumentMoniker": "D:\\MAPD\\Backend\\Authenticated_API\\Decorator_Design\\I_Component\\IComponent_Class.cs",
+              "RelativeDocumentMoniker": "I_Component\\IComponent_Class.cs",
+              "ToolTip": "D:\\MAPD\\Backend\\Authenticated_API\\Decorator_Design\\I_Component\\IComponent_Class.cs",
+              "RelativeToolTip": "I_Component\\IComponent_Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:23:06.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Concrete_Class.cs",
+              "DocumentMoniker": "D:\\MAPD\\Backend\\Authenticated_API\\Decorator_Design\\Concrete_Component\\Concrete_Class.cs",
+              "RelativeDocumentMoniker": "Concrete_Component\\Concrete_Class.cs",
+              "ToolTip": "D:\\MAPD\\Backend\\Authenticated_API\\Decorator_Design\\Concrete_Component\\Concrete_Class.cs",
+              "RelativeToolTip": "Concrete_Component\\Concrete_Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:20:13.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MAPD\\Backend\\Authenticated_API\\Decorator_Design\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MAPD\\Backend\\Authenticated_API\\Decorator_Design\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:12:20.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColorDecorator_Class.cs",
+              "DocumentMoniker": "D:\\MAPD\\Backend\\Authenticated_API\\Decorator_Design\\Decorator\\ColorDecorator_Class.cs",
+              "RelativeDocumentMoniker": "Decorator\\ColorDecorator_Class.cs",
+              "ToolTip": "D:\\MAPD\\Backend\\Authenticated_API\\Decorator_Design\\Decorator\\ColorDecorator_Class.cs",
+              "RelativeToolTip": "Decorator\\ColorDecorator_Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:34:33.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpperCaseDecorator_Class.cs",
+              "DocumentMoniker": "D:\\MAPD\\Backend\\Authenticated_API\\Decorator_Design\\Decorator\\UpperCaseDecorator_Class.cs",
+              "RelativeDocumentMoniker": "Decorator\\UpperCaseDecorator_Class.cs",
+              "ToolTip": "D:\\MAPD\\Backend\\Authenticated_API\\Decorator_Design\\Decorator\\UpperCaseDecorator_Class.cs",
+              "RelativeToolTip": "Decorator\\UpperCaseDecorator_Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:33:42.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
