@@ -4,15 +4,15 @@ using Decorator_Design.Decorator;
 var component = new Concrete_Class();
 
 // Create decorators
-var plainDecorator = new PlainDecorator(component);
-var upperCaseDecorator = new UpperCaseDecorator(component);
-var colorDecorator = new ColorDecorator(component);
+var plain_Decorator = new PlainDecorator(component);
+var upperCase_Decorator = new UpperCaseDecorator(component);
+var color_Decorator = new ColorDecorator(component);
 
 // Use decorators
 Console.WriteLine("Initial Text: " + component.GetText());
 Console.WriteLine();
-Console.WriteLine("Plain Text: " + plainDecorator.GetText());
+Console.WriteLine("Plain Text: " + plain_Decorator.GetText());
 Console.WriteLine();
-Console.WriteLine("Upper Case Text: " + upperCaseDecorator.GetText());
+Console.WriteLine("Upper Case Text: " + upperCase_Decorator.GetText());
 Console.WriteLine();
-Console.WriteLine("Color Text: " + colorDecorator.GetText());
+Console.WriteLine("Color Text: " + color_Decorator.GetText());
