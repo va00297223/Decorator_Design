@@ -1,5 +1,6 @@
 ﻿using Decorator_Design.Concrete_Component;
 using Decorator_Design.Decorator;
+using Decorator_Design.I_Component;
 
 var component = new Concrete_Class();
 
